@@ -28,6 +28,9 @@ h3 {
   background-color: #fff;
 }
 
+
+button:start {
+
 button:end {
   background-color: #0ff;
   color: #111;
